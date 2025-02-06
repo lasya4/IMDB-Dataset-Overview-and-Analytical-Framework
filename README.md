@@ -18,6 +18,7 @@ Analytical Operations Plan:
 7. Printing the average revenue by genre 
 8. Predictive Modeling: Linear Regression of Revenue on Budget 
 9. Text Analysis: Common Words in Movie Overviews
+
 10 . Comparative Analysis: Compare Average Scores by Genre 
 
 
