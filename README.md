@@ -17,8 +17,8 @@ Analytical Operations Plan:
 6. Time Series Analysis: Average Movie Score by Year 
 7. Printing the average revenue by genre 
 8. Predictive Modeling: Linear Regression of Revenue on Budget 
-9. Text Analysis: Common Words in Movie Overviews
-10 . Comparative Analysis: Compare Average Scores by Genre 
+9. Text Analysis: Common Words in Movie Overviews                                                                                                                          10
+10.Comparative Analysis: Compare Average Scores by Genre 
 
 
 This plan is designed to leverage the dataset's comprehensive nature, facilitating a multifaceted 
